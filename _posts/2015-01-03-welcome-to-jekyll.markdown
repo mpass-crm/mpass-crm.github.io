@@ -10,6 +10,8 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ![test image]({{ site.url }}/assets/plugin-in_flow.png)
 
+http://yourdomain.com/assets/plugin-in_flow.png
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
