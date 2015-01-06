@@ -10,6 +10,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ![test image](/assets/plug-in_flow.png)
 
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
